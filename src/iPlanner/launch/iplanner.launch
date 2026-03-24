@@ -1,5 +1,5 @@
 <launch>
-    <arg name="config" default="vehicle_real"/>
+    <arg name="config" default="vehicle_sim"/>
     <arg name="rosbag" default="false"/>
     <arg name="use_path_follow" default="true"/>
 
